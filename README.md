@@ -15,9 +15,7 @@ Ejercicios propuestos
 2. Área de un rectángulo
 • Solicita base y altura.
 • Calcula y muestra el área.
-3. Promedio de tres notas
-• Solicita tres calificaciones.
-• Calcula y muestra el promedio.
+ 
 4. Conversión de monedas
 • Solicita un valor en pesos colombianos.
 • Convierte a dólares (suponiendo 1 USD = 4000 COP).
