@@ -24,3 +24,17 @@ let suma = primerNota + segundaNota + terceraNota;
 let promedio = suma / 3
 
 console.log("El promedio de las notas es: " + promedio);
+
+//Conversión de monedas • Solicita un valor en pesos colombianos. • Convierte a dólares (suponiendo 1 USD = 4000 COP).
+
+let pesos =  parseFloat(prompt("Ingrese el valor en pesos colombianos"))
+
+let pesosEndolares = pesos / 4000
+
+console.log("Sus pesos equivalen a "+ pesosEndolares + "dolares")
+
+//Conversión de temperatura • Solicita una temperatura en Celsius. • Convierte a Fahrenheit usando la fórmula: F = (C × 9/5) + 32.
+
+let celsius = parseFloat(prompt("Ingrese la temperatura actual en Celsius " ))
+let Fahrenheit = (celsius * 9/5 ) + 32
+
